@@ -1,0 +1,24 @@
+SMAP
+MostrarTablaGruposCarreras_jsp.java
+JSP
+*S JSP
+*F
++ 0 MostrarTablaGruposCarreras.jsp
+Administracion/MostrarTablaGruposCarreras.jsp
+*L
+1,2:46
+3,2:48,2
+6,4:53
+9,16:57
+25,16:74
+40,2:90
+42,5:92,3
+47,2:107
+49:109,3
+50,6:112
+56:118,3
+57,14:121
+70,14:135
+83,7:149
+89:155
+*E

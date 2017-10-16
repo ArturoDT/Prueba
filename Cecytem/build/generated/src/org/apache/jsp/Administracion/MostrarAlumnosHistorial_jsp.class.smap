@@ -1,0 +1,21 @@
+SMAP
+MostrarAlumnosHistorial_jsp.java
+JSP
+*S JSP
+*F
++ 0 MostrarAlumnosHistorial.jsp
+Administracion/MostrarAlumnosHistorial.jsp
+*L
+1,2:46
+3,2:48,2
+5:52
+7,3:54
+9,17:57
+26,19:75
+44,2:94
+46,8:96,3
+54,11:120
+64,16:131
+79,5:147
+83:151
+*E

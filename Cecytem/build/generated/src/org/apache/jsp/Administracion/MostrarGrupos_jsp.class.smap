@@ -1,0 +1,19 @@
+SMAP
+MostrarGrupos_jsp.java
+JSP
+*S JSP
+*F
++ 0 MostrarGrupos.jsp
+Administracion/MostrarGrupos.jsp
+*L
+1,2:46
+3:48,2
+4,45:50
+48,2:95
+50:97,3
+51,4:100
+54,17:104
+70,4:121
+73:124,2
+74:126
+*E
